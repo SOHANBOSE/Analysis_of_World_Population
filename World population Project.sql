@@ -7,7 +7,7 @@ USE world_population;
 SELECT * FROM world_population1;
 
 -- check for the description of the table  
-DESCRIBE world_population1;
+DESCRIBE world_population1; 
 
 -- Rename the columns 
 ALTER TABLE world_population1 CHANGE `World Population Percentage`  `world_population_percentage` double; 
