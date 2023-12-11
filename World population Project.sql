@@ -4,7 +4,7 @@ SELECT * FROM world_population.world_population1;
 USE world_population;
 
 -- Display the information in the table  
-SELECT * FROM world_population1;
+SELECT * FROM world_population1; 
 
 -- check for the description of the table   
 DESCRIBE world_population1; 
