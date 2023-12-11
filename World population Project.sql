@@ -3,7 +3,7 @@ SELECT * FROM world_population.world_population1;
 -- Choose the database world_population
 USE world_population;
 
--- Display the information in the table 
+-- Display the information in the table  
 SELECT * FROM world_population1;
 
 -- check for the description of the table   
