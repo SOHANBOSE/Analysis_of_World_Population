@@ -14,7 +14,7 @@ ALTER TABLE world_population1 CHANGE `World Population Percentage`  `world_popul
 
 ALTER TABLE world_population1 CHANGE `Area (kmÂ²)`  `area` int;
 
-ALTER TABLE world_population1 CHANGE `Country/Territory`  `country` varchar (100);
+ALTER TABLE world_population1 CHANGE `Country/Territory`  `country` varchar (100); 
 
 ALTER TABLE world_population1 CHANGE `Growth Rate`  `growth_rate` double;
 
