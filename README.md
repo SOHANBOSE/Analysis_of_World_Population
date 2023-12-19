@@ -6,7 +6,7 @@ The dataset comprises of information on world population data from different cou
 
 ## Questions
 * What is the highest and lowest population sizes in the year 2022?
-* What countries have a total population that is greater than the average population in 2020?
+* What countries have a total population that is greater than the average population in 2020? 
 * What countries were the most densely populated in 2022?
 
 
